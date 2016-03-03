@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesflor00egengoog_0007.png"; bbox 0 0 1304 1579; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 532 591 814 664">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 532 591 814 664">
+     <span class='ocr_line' id='line_1_1' title="bbox 532 591 814 652; baseline -0.014 -13"><span class='ocrx_word' id='word_1_1' title='bbox 532 591 814 652; x_wconf 48' lang='lat' dir='ltr'>[001oe15&#39;221de&#39;ms771m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 759 656 762 664; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 759 656 762 664; x_wconf 72' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 676 694 697 717">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 676 694 697 717">
+     <span class='ocr_line' id='line_1_3' title="bbox 676 694 697 717; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 676 694 697 717; x_wconf 73' lang='lat' dir='ltr'>&#39;s</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
